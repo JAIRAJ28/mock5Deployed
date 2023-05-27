@@ -9,7 +9,7 @@
       "profession": "Web Developer",
       "skills": ["HTML", "CSS", "JavaScript"],
       "hourly_rate": 25,
-      "profile_picture": "profile1.jpg",
+      "profile_picture": "https://static.freeimages.com/images/home/filetypes/photo.webp",
 			"isBooked" : false
     },
     {
@@ -20,52 +20,52 @@
       "profession": "Graphic Designer",
       "skills": ["Photoshop", "Illustrator"],
       "hourly_rate": 30,
-      "profile_picture": "profile2.jpg",
-			"isBooked" : true
+      "profile_picture": "https://images.freeimages.com/variants/431pxtsJN2m2csWTBrY2wGVm/f4a36f6589a0e50e702740b15352bc00e4bfaf6f58bd4db850e167794d05993d",
+			"isBooked" : false
     },
     {
       "id": 3,
-      "name": "Hello",
+      "name": "Know",
       "email": "jane@example.com",
       "password": "password",
       "profession": "Graphic Designer",
       "skills": ["Photoshop", "Illustrator"],
       "hourly_rate": 30,
-      "profile_picture": "profile2.jpg",
-			"isBooked" : true
+      "profile_picture": "https://images.freeimages.com/variants/XCx7cyMBs9oNG8EBh37n35Do/f4a36f6589a0e50e702740b15352bc00e4bfaf6f58bd4db850e167794d05993d",
+			"isBooked" : false
     },
     {
       "id": 4,
-      "name": "Hello",
+      "name": "To",
       "email": "jane@example.com",
       "password": "password",
       "profession": "Graphic Designer",
       "skills": ["Photoshop", "Illustrator"],
       "hourly_rate": 30,
-      "profile_picture": "profile2.jpg",
-			"isBooked" : true
+      "profile_picture": "https://images.freeimages.com/variants/XCx7cyMBs9oNG8EBh37n35Do/f4a36f6589a0e50e702740b15352bc00e4bfaf6f58bd4db850e167794d05993d",
+			"isBooked" : false
     },
     {
       "id": 5,
-      "name": "Hello",
+      "name": "Say",
       "email": "jane@example.com",
       "password": "password",
       "profession": "Graphic Designer",
       "skills": ["Photoshop", "Illustrator"],
       "hourly_rate": 30,
-      "profile_picture": "profile2.jpg",
-			"isBooked" : true
+      "profile_picture": "https://images.freeimages.com/variants/XCx7cyMBs9oNG8EBh37n35Do/f4a36f6589a0e50e702740b15352bc00e4bfaf6f58bd4db850e167794d05993d",
+			"isBooked" : false
     },
     {
       "id": 6,
-      "name": "Hello",
+      "name": "Me",
       "email": "jane@example.com",
       "password": "password",
       "profession": "Graphic Designer",
       "skills": ["Photoshop", "Illustrator"],
       "hourly_rate": 30,
-      "profile_picture": "profile2.jpg",
-			"isBooked" : true
+      "profile_picture": "https://images.freeimages.com/variants/XCx7cyMBs9oNG8EBh37n35Do/f4a36f6589a0e50e702740b15352bc00e4bfaf6f58bd4db850e167794d05993d",
+			"isBooked" : false
     }
   ]
 }
